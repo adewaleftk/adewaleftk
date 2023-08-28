@@ -1,4 +1,4 @@
-# Hi there, I'm Adewale 👋
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+ADEWALE;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 
 🚀 I am a Full-Stack Software Engineer with 2 years of experience building modern web applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
 
