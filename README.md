@@ -1,6 +1,6 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+ADEWALE;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 
-🚀 I am a Full-Stack Software Engineer with 2 years of experience building modern web applications. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
+🚀 I am a Full-Stack Software Engineer with 2 years of experience building Softwares. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
 
 🚀 I have a strong understanding of reponsive designs and web accessibility principles ensuring that all web applications are accessible to all users. I am dedicated to delivering clean, maintainable code that is optimized for performance.
 
