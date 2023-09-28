@@ -52,6 +52,7 @@ Here are a few examples of some projects I've worked on:
 - **Simple Shell** - A Command line interface that functions like the Linux Terminal by receiving input from the keyboard and sends them directly to the Operating System to perform immediately (https://github.com/adewaleftk/simple_shell).
 - **BetWeySure** - A Sports Betting and Prediction Website(https://betweysure.vercel.app).
 - **Scream Backend API** - A project for handling all the backend functions of a social media app named scream (https://github.com/adewaleftk/scream-backend)
+- - **PicLit** - A website for compressing te size of images without affecting the quality of the images (https://piclit.adewaleftk.tech)
 
 ## 🎓 Experience
 
