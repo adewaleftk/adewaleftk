@@ -64,7 +64,7 @@ Here are a few examples of some projects I've worked on:
 
 ## 📚 Education
 
-- **Holberton School:** Software Engineering (2023)
+- **ALX Africa(Holberton School):** Software Engineering (2023)
 - **Federal University of Technology, Akure:** Biochemistry (in view)
 <!-- - **University Name:** Degree Name (Graduation Year) -->
 
