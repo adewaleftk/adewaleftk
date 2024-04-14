@@ -1,5 +1,16 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+ADEWALE;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adewaleftk&label=Profile%20views&color=0e75b6&style=flat" alt="adewaleftk" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adewaleftk&theme=onedark" alt="adewaleftk" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adewaleftk&show_icons=true&locale=en&layout=compact&theme=onedark" alt="adewaleftk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adewaleftk&show_icons=true&locale=en&theme=onedark" alt="adewaleftk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adewaleftk&theme=onedark" alt="adewaleftk" /></p>
+
 🚀 I am a Full-Stack Software Engineer with 2 years of experience building Softwares and Modern Web Application. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
 
 🚀 I have a strong understanding of reponsive designs and web accessibility principles ensuring that all web applications are accessible to all users. I am dedicated to delivering clean, maintainable code that is optimized for performance.
@@ -94,14 +105,5 @@ Here are a few examples of some projects I've worked on:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adewaleftk&label=Profile%20views&color=0e75b6&style=flat" alt="adewaleftk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adewaleftk&theme=onedark" alt="adewaleftk" /></a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adewaleftk&show_icons=true&locale=en&layout=compact&theme=onedark" alt="adewaleftk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adewaleftk&show_icons=true&locale=en&theme=onedark" alt="adewaleftk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adewaleftk&theme=onedark" alt="adewaleftk" /></p>
 
