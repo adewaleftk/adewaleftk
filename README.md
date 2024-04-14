@@ -73,6 +73,7 @@ Here are a few examples of some projects I've worked on:
 
 - **Linux Certified IT Associate** https://bit.ly/3EgYKIA (December 2022)
 - **Meta Frontend Developer** https://bit.ly/45x7rnV (May 2023)
+- **Meta Frontend Developer** https://intranet.alxswe.com/certificates/rRYx9TPNM7 (October 2023)
 
 ## 🌐 Social Links
 
