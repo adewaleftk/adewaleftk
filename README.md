@@ -66,12 +66,15 @@ Here are a few examples of some projects I've worked on:
 - **PicLit** - A website for compressing te size of images without affecting the quality of the images (https://piclit.adewaleftk.tech)
 
 ## 🎓 Experience
-
+- **NexaPay:** Backend Engineer (January 2024 till date)
+- **Payload-X:** Frontend Engineer (June 2023 to November 2023)
+- **Worldest Intellisoft Limited:** Frontend Engineer (April 2023 to June 2023)
 - **GO4U Technologies:** Frontend Engineer (March 2023 to June 2023)
+
 <!--     - Description of responsibilities and achievements. -->
-- **Worldest Intellisoft Limited:** Frontend Engineer (April 2023 till date)
+
 <!--     - Description of responsibilities and achievements. -->
-- **Payload-X:** Frontend Engineer (June 2023 till date)
+
 
 ## 📚 Education
 
