@@ -11,7 +11,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adewaleftk&theme=onedark" alt="adewaleftk" /></p>
 
-🚀 I am a Full-Stack Software Engineer with 2 years of experience building Softwares and Modern Web Application. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
+🚀 I am a Full-Stack Software Engineer with 3+ years of experience building Softwares and Modern Web Application. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
 
 🚀 I have a strong understanding of reponsive designs and web accessibility principles ensuring that all web applications are accessible to all users. I am dedicated to delivering clean, maintainable code that is optimized for performance.
 
