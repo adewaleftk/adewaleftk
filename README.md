@@ -88,6 +88,7 @@ Here are a few examples of some projects I've worked on:
 - **Linux Certified IT Associate** https://bit.ly/3EgYKIA (December 2022)
 - **Meta Frontend Developer** https://bit.ly/45x7rnV (May 2023)
 - **Software Engineer** https://intranet.alxswe.com/certificates/rRYx9TPNM7 (October 2023)
+- **Ethical Hacker** https://www.credly.com/badges/0e38655d-4cb9-40a9-b3e0-7c597628a389 (August 2024)
 
 ## 🌐 Social Links
 
