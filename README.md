@@ -59,8 +59,8 @@
 
 Here are a few examples of some projects I've worked on:
 
-- **NexaPay** - A fintech (https://www.nexapay.ng).
-- **Payload-X** - A Backend as a Service BaaS(https://www.payload-x.com).
+- **NexaPay** - A fintech web application (https://www.nexapay.ng).
+- **Payload-X** - A Backend as a Service BaaS platform(https://www.payload-x.com).
 - **Bukdel** - A 3-in-1 e-commerce web app that helps consumers with their logistics, ordering of food and event management(https://bukdel.vercel.app).
 - **Simple Shell** - A Command line interface that functions like the Linux Terminal by receiving input from the keyboard and sends them directly to the Operating System to perform immediately (https://github.com/adewaleftk/simple_shell).
 - **BetWeySure** - A Sports Betting and Prediction Website(https://betweysure.com).
