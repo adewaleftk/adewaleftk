@@ -11,7 +11,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adewaleftk&theme=onedark" alt="adewaleftk" /></p>
 
-🚀 I am a Full-Stack Software Engineer with 3+ years of experience building Softwares and Modern Web Application. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
+🚀 I am a Full-Stack Software Engineer with 4+ years of experience building Softwares and Modern Web Infrastructures. I'm passionate about creating high-quality, responsive, and user-friendly applications that solve real-world problems.
 
 🚀 I have a strong understanding of reponsive designs and web accessibility principles ensuring that all web applications are accessible to all users. I am dedicated to delivering clean, maintainable code that is optimized for performance.
 
@@ -61,7 +61,7 @@ Here are a few examples of some projects I've worked on:
 
 - **Bukdel** - A 3-in-1 e-commerce web app that helps consumers with their logistics, ordering of food and event management(https://bukdel.vercel.app).
 - **Simple Shell** - A Command line interface that functions like the Linux Terminal by receiving input from the keyboard and sends them directly to the Operating System to perform immediately (https://github.com/adewaleftk/simple_shell).
-- **BetWeySure** - A Sports Betting and Prediction Website(https://betweysure.vercel.app).
+- **BetWeySure** - A Sports Betting and Prediction Website(https://betweysure.com).
 - **Scream Backend API** - A project for handling all the backend functions of a social media app named scream (https://github.com/adewaleftk/scream-backend)
 - **PicLit** - A website for compressing te size of images without affecting the quality of the images (https://piclit.adewaleftk.tech)
 
